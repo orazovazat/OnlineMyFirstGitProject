@@ -1,4 +1,6 @@
-public class VYTRACKScript.java{
+package tests;
+
+public class VYTRACKScript{
 
 
 
