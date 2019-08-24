@@ -3,4 +3,8 @@ red
 orange
 pink
 yellow
+<<<<<<< Updated upstream
 black
+=======
+white
+>>>>>>> Stashed changes
